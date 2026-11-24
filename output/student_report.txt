@@ -1,0 +1,69 @@
+============================================================
+       STUDENT PERFORMANCE ANALYTICS REPORT
+============================================================
+
+Student Name: Arun
+----------------------------------------
+Python: 85
+SQL: 90
+NumPy: 88
+React: 80
+Django: 92
+Total Marks: 435/500
+Average Marks: 87.00
+Percentage: 87.00%
+
+============================================================
+
+Student Name: Priya
+----------------------------------------
+Python: 90
+SQL: 85
+NumPy: 95
+React: 88
+Django: 91
+Total Marks: 449/500
+Average Marks: 89.80
+Percentage: 89.80%
+
+============================================================
+
+Student Name: Kumar
+----------------------------------------
+Python: 75
+SQL: 80
+NumPy: 78
+React: 85
+Django: 82
+Total Marks: 400/500
+Average Marks: 80.00
+Percentage: 80.00%
+
+============================================================
+
+Student Name: Divya
+----------------------------------------
+Python: 95
+SQL: 92
+NumPy: 90
+React: 94
+Django: 96
+Total Marks: 467/500
+Average Marks: 93.40
+Percentage: 93.40%
+
+============================================================
+
+Student Name: Rahul
+----------------------------------------
+Python: 80
+SQL: 75
+NumPy: 82
+React: 78
+Django: 85
+Total Marks: 400/500
+Average Marks: 80.00
+Percentage: 80.00%
+
+============================================================
+
